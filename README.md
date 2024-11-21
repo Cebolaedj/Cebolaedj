@@ -39,8 +39,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Cebolaedj/Cebolaedj/output/snake.svg" alt="Snake animation" />
-
-###
