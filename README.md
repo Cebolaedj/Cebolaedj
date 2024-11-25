@@ -3,7 +3,7 @@
 
 <p align="center">Eu me chamo Jade, e esse perfil é pra mostrar um pouco do meu processo dentro do GitHub.</p>
 
-  <img src="https://tenor.com/kGVveiDJ5o0.gif"/>
+<div class="tenor-gif-embed" data-postid="8836516602000136628" data-share-method="host" data-aspect-ratio="1.41026" data-width="100%"><a href="https://tenor.com/view/league-of-legends-jinx-dance-gif-8836516602000136628">League Of Legends Jinx Sticker</a>from <a href="https://tenor.com/search/league+of+legends-stickers">League Of Legends Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ###
 
 <div align="center">
