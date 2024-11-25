@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Redes Sociais</p>
+<h1 align="left">Redes Sociais</h1>
  <img src="divider.gif"/>
 
 ###
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">Tecnologias</p>
+<h1 align="left">Tecnologias</h1>
 
 ###
 
