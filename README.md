@@ -1,5 +1,5 @@
 <h1 align="left">E aí, tudo certo? 🤙</h1>
-<div class="tenor-gif-embed" data-postid="23915828" data-share-method="host" data-aspect-ratio="0.915625" data-width="100%"><a href="https://tenor.com/search/nietzsche-gifs">Nietzsche GIFs</a></div>
+ <img src="https://github-readme-stats.vercel.app/api?username=Cebolaedj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 <p align="left">Eu me chamo Jade, e esse perfil é pra mostrar um pouco do meu processo dentro do GitHub.</p>
 
 ###
