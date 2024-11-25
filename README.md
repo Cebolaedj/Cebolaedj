@@ -1,7 +1,5 @@
 <h1 align="left">E aí, tudo certo? 🤙</h1>
-<div align="center">
  <img src="https://tenor.com/bVsyC.gif"/>
- </div>
 
 <p align="center">Eu me chamo Jade, e esse perfil é pra mostrar um pouco do meu processo dentro do GitHub.</p>
 
