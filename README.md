@@ -1,5 +1,6 @@
-<h1 align="left">E aí, tudo certo? 🤙</h1>
-<img src="https://tenor.com/bVsyC.gif"/>
+<h1 align="left"> E aí, tudo certo? 🤙</h1>
+
+<img src= "https://tenor.com/bVsyC.gif" />
 
 <p align="center">Eu me chamo Jade, e esse perfil é pra mostrar um pouco do meu processo dentro do GitHub.</p>
 
@@ -15,7 +16,7 @@
 
 ###
 
-<p align="left">Redes Sociais</p>
+<h1 align="left">Redes Sociais</h1>
 
 ###
 
@@ -27,7 +28,7 @@
 
 ###
 
-<p align="left">Tecnologias</p>
+<h1 align="left">Tecnologias</h1>
 
 ###
 
