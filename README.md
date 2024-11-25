@@ -1,5 +1,5 @@
 <h1 align="left">E aí, tudo certo? 🤙</h1>
-<div class="tenor-gif-embed" data-postid="23915828" data-share-method="host" data-aspect-ratio="0.915625" data-width="100%"><a href="https://tenor.com/view/nietzsche-gif-23915828">Nietzsche GIF</a>from <a href="https://tenor.com/search/nietzsche-gifs">Nietzsche GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="23915828" data-share-method="host" data-aspect-ratio="0.915625" data-width="100%"><a href="https://tenor.com/search/nietzsche-gifs">Nietzsche GIFs</a></div>
 <p align="left">Eu me chamo Jade, e esse perfil é pra mostrar um pouco do meu processo dentro do GitHub.</p>
 
 ###
