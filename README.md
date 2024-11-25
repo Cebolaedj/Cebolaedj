@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="left">Redes Sociais</h1>
+<h1 align="left">Redes Sociais🗪</h1>
  <img src="divider.gif"/>
 
 ###
@@ -34,10 +34,7 @@
 
 ###
 
-<h1 align="left">Tecnologias</h1>
-<div align="center">
-  <img height="200" src="borda.gif"  />
-</div>
+<h1 align="left">Tecnologias 💻</h1>
 
 ###
 
@@ -53,6 +50,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+<div align="center">
+  <img height="200" src="borda.gif"  />
 </div>
 
 ###
