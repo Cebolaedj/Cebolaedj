@@ -35,6 +35,11 @@
 ###
 
 <h1 align="left">Tecnologias</h1>
+<div align="center">
+  <img height="200" src="borda.gif"  />
+</div>
+
+###
 
 ###
 
