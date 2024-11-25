@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 <div align="center">
-  <img height="200" src="borda.gif"  />
+  <img src="sapo.gif"  />
 </div>
 
 ###
