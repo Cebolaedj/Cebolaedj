@@ -4,6 +4,12 @@
 
 <p align="center">Eu me chamo Jade, e esse perfil é pra mostrar um pouco do meu processo dentro do GitHub.</p>
 
+<div align="center">
+  <img height="200" src="https://tenor.com/kGVveiDJ5o0.gif"  />
+</div>
+
+###
+
 ###
 
 <div align="center">
