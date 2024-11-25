@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="left">Redes Sociais</h1>
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h1 align="left">Tecnologias</h1>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
