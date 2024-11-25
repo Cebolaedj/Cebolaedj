@@ -36,6 +36,8 @@
 
 <h1 align="left">Tecnologias 💻</h1>
 
+<img src="borda.gif"  />
+
 ###
 
 ###
