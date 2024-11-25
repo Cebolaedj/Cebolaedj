@@ -1,6 +1,8 @@
 <h1 align="left">E aí, tudo certo? 🤙</h1>
- <img src="https://media1.tenor.com/m/itVOWU_QYOUAAAAd/nietzsche.gif"  />
-<p align="left">Eu me chamo Jade, e esse perfil é pra mostrar um pouco do meu processo dentro do GitHub.</p>
+<div align="center">
+ <img src="https://media1.tenor.com/m/itVOWU_QYOUAAAAd/nietzsche.gif"/>
+ </div>
+<p align="center">Eu me chamo Jade, e esse perfil é pra mostrar um pouco do meu processo dentro do GitHub.</p>
 
 ###
 
