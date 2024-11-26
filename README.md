@@ -31,6 +31,8 @@
   
 ###
 
+<br><br>
+
   <h1 align="center">Linguagens de domínio💻</h1>
 
   <div align="left"/>
@@ -58,6 +60,7 @@
     <img src="borda.gif" />
   </div>
 
+<br><br>
 
 <h1 align="center">Redes de Contato🗪</h1>
 
