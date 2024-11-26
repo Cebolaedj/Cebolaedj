@@ -25,7 +25,7 @@
 
   <p align="center">𖣂Estudante de psicologia<br>𖣂Leitora<br>𖣂Autista/TDAH<br>𖣂Altas Habilidades</p>
   <div align="right">
-  <img src="xope.gif" height="400" alt="xope" />
+  <img src="xope.gif" />
 </div>
   
 
