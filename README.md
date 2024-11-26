@@ -24,7 +24,10 @@
   <h3 align="center">SOBRE</h3>
 
   <p align="center">𖣂Estudante de psicologia<br>𖣂Leitora<br>𖣂Autista/TDAH<br>𖣂Altas Habilidades</p>
-  <img align="left" src="xope.gif" />
+  <div align="right">
+  <img src="xope.gif" height="400" alt="xope" />
+</div>
+  
 
 <h1 align="left">Redes de Contato🗪</h1>
 
