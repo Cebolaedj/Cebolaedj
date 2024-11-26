@@ -32,7 +32,7 @@
 
 <h1 align="left">Linguagens de domínio💻</h1>
 
-<div align="bottom">
+<div align="right" position="bottom"/>
   <img src="borda.gif" />
 </div>
 
