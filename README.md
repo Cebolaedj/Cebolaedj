@@ -73,13 +73,10 @@
 
 <br><br>
 
-<div align="right">
   <img src="sim.gif" height="400" alt="eu" />
-</div>
 
-<div align="left">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ekvl03eu954je36ss1pu9shsy&unique={true|1|on|yes})
-</div>
+
 
 ###
 
