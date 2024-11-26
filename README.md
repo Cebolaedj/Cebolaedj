@@ -21,11 +21,11 @@
 
 ###
 
+<div align="right">
   <h3 align="center">SOBRE</h3>
 
   <p align="center">𖣂Estudante de psicologia<br>𖣂Leitora<br>𖣂Autista/TDAH<br>𖣂Altas Habilidades</p>
 
-<div align="right">
   <img src="https://tenor.com/bDUxg.gif" />
 </div>
 
