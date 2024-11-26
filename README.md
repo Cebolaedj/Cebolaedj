@@ -27,7 +27,6 @@
 
 
 <h1 align="left">Redes de Contato🗪</h1>
-  <img src="bola.gif" height="400"  />
 
 ###
 
@@ -41,6 +40,8 @@
   <a href="jademoraes@acad.ifma.edu.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+
+  <img src="bola.gif" height="200"  />
 </div>
 
 ###
