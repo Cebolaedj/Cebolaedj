@@ -24,11 +24,10 @@
   <h1 align="center">Sobre ⋫</h1>
 
   <p align="center">𖣂Estudante de psicologia<br>𖣂Leitora<br>𖣂Autista/TDAH<br>𖣂Altas Habilidades</p>
-  <div align="right">
+  <div align="center">
   <img src="xope.gif" height="200" alt="xope"/>
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ekvl03eu954je36ss1pu9shsy&unique={true|1|on|yes})
   
 ###
 
@@ -72,7 +71,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=jademoraes@acad.ifma.edu.br&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ekvl03eu954je36ss1pu9shsy&unique={true|1|on|yes})
 
 <div align="right">
   <img src="sim.gif" height="400" alt="eu" />
