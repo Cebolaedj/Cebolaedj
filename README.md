@@ -70,7 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 <div align="right">
-  <img src="sapo.gif" height="200" alt="sapinho" />
+  <img src="sapo.gif" height="400" alt="sapinho" />
 </div>
 
 ###
