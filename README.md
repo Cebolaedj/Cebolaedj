@@ -34,7 +34,7 @@
 
   <img src="borda.gif" />
 
-  <h1>Linguagens de domínio💻</h1>
+  <h2>Linguagens de domínio💻</h2>
 
   <div align="right"/>
     <img src="borda.gif" />
