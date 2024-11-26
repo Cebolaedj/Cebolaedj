@@ -74,7 +74,7 @@
 </div>
 
 <div align="right">
-  <img src="sapo.gif" height="400" alt="sapinho" />
+  <img src="sim.gif" height="400" alt="eu" />
 </div>
 
 ###
