@@ -1,4 +1,4 @@
-<h1 align="left"> E aí, tudo certo? 🤙</h1>
+<h1 align="left"> Olá, tudo certo? 👋</h1>
 
 <img src= "https://tenor.com/bVsyC.gif" />
 
