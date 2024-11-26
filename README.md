@@ -30,16 +30,15 @@
   
 ###
 
-<div align="left">
-
-  <img src="borda.gif" />
-
   <h2>Linguagens de domínio💻</h2>
+
+  <div align="left"/>
+    <img src="borda.gif" />
+  </div>
 
   <div align="right"/>
     <img src="borda.gif" />
   </div>
-</div>
 ###
 
 ###
