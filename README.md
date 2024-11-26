@@ -66,7 +66,6 @@
 <br><br>
 
 <h1 align="center">Redes de Contato🗪</h1>
-<br><br>
 
 ###
 
@@ -80,9 +79,13 @@
 
 <br><br>
 
-  <img src="sim.gif" height="400" alt="eu" />
+  <img src="sim.gif" height="200" alt="eu" />
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ekvl03eu954je36ss1pu9shsy&unique={true|1|on|yes})
+
+  <div align="right"/>
+    <img src="sapo.gif" height="400" alt="eu"/>
+  </div>
 
 
 ###
