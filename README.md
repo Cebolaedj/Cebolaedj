@@ -21,7 +21,7 @@
 
 ###
 
-  <h3 align="center"><font-size: 80px;>SOBRE</h3>
+  <h3 align="center"><style="font-size: 80px; font-family:Impact">SOBRE</h3>
 
   <p align="center">𖣂Estudante de psicologia<br>𖣂Leitora<br>𖣂Autista/TDAH<br>𖣂Altas Habilidades</p>
   <img src="bola.gif"  />
