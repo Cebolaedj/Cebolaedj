@@ -2,7 +2,7 @@
 
 <img src= "https://tenor.com/bVsyC.gif" />
 
-<p align="center">Eu me chamo Jade, aqui no meu perfil você pode ver um pouco do meu processo dentro do GitHub. Estou começando uma carreira como desenvolvedora web e programadora, sendo participante da criação de um jogo educacional, blog, um portfólio e pequenos projetos com javascript.</p>
+<p align="center">Eu me chamo Jade, aqui no meu perfil você pode ver um pouco do meu processo dentro do GitHub. Estou começando uma carreira como desenvolvedora web e programadora, sendo participante da criação de um jogo educacional, blog, um portfólio e pequenos projetos ujtilizando javascript e html.</p>
 
 <div align="center">
   <img height="200" src="jinx.gif"  />
