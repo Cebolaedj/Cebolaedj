@@ -30,12 +30,11 @@
   
 ###
 
-<div>
-  <h1 align="left">Linguagens de domínio💻</h1>
+<div align="left">
 
-  <div align="left"/>
-    <img src="borda.gif" />
-  </div>
+  <img src="borda.gif" />
+
+  <h1>Linguagens de domínio💻</h1>
 
   <div align="right"/>
     <img src="borda.gif" />
