@@ -2,7 +2,7 @@
 
 <img src= "https://tenor.com/bVsyC.gif" />
 
-<p align="center">Eu me chamo Jade, e esse perfil é pra mostrar um pouco do meu processo dentro do GitHub.</p>
+<p align="center">Eu me chamo Jade, aqui no meu perfil você pode ver um pouco do meu processo dentro do GitHub.</p>
 
 <div align="center">
   <img height="200" src="jinx.gif"  />
