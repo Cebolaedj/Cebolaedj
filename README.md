@@ -22,6 +22,7 @@
 ###
 
   <h1 align="center">Sobre ⋫</h1>
+  <br><br>
 
   <p align="center">𖣂Estudante de psicologia<br>𖣂Leitora<br>𖣂Autista/TDAH<br>𖣂Altas Habilidades</p>
   <div align="center">
@@ -63,6 +64,7 @@
 <br><br>
 
 <h1 align="center">Redes de Contato🗪</h1>
+<br><br>
 
 ###
 
