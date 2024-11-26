@@ -23,7 +23,7 @@
 
   <h3 align="center">SOBRE</h3>
 
-  <p align="center">𖣂Estudante de psicologia<br>𖣂Leitora<br>𖣂Autista/TDAH<br>𖣂Altas Habilidades<br><img align="bottom" src="bola.gif"  /></p>
+  <p align="center">𖣂Estudante de psicologia<br>𖣂Leitora<br>𖣂Autista/TDAH<br>𖣂Altas Habilidades<br><img src="bola.gif"  /></p>
 
 
 <h1 align="left">Redes de Contato🗪</h1>
