@@ -28,23 +28,6 @@
   <img src="xope.gif" height="200" alt="sapinho"/>
 </div>
   
-
-<h1 align="left">Redes de Contato🗪</h1>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/cibola_reis?igsh=dG5yeWxjZWc1ajZh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=jademoraes@acad.ifma.edu.br&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-
-###
-
-###
-
 ###
 
 <h1 align="left">Linguagens de domínio💻</h1>
@@ -72,6 +55,19 @@
 </div>
 
 ###
+
+<h1 align="left">Redes de Contato🗪</h1>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/cibola_reis?igsh=dG5yeWxjZWc1ajZh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=jademoraes@acad.ifma.edu.br&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
+
 <div align="right">
   <img src="sapo.gif" height="400" alt="sapinho" />
 </div>
