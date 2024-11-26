@@ -24,8 +24,8 @@
   <h1 align="center">Sobre ⋫</h1>
 
   <p align="center">𖣂Estudante de psicologia<br>𖣂Leitora<br>𖣂Autista/TDAH<br>𖣂Altas Habilidades</p>
-  <div align="center">
-  <img src="xope.gif" height="200" alt="sapinho"/>
+  <div align="right">
+  <img src="xope.gif" height="200" alt="xope"/>
 </div>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ekvl03eu954je36ss1pu9shsy&unique={true|1|on|yes})
