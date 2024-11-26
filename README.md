@@ -35,10 +35,7 @@
   <div align="left"/>
     <img src="borda.gif" />
   </div>
-
-  <div align="right"/>
-    <img src="borda.gif" />
-  </div>
+  
 ###
 
 ###
@@ -59,6 +56,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="60" alt="godot logo"  />
 </div>
 
+  <div align="right"/>
+    <img src="borda.gif" />
+  </div>
 ###
 
 <h1 align="left">Redes de Contato🗪</h1>
