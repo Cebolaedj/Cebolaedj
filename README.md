@@ -21,7 +21,7 @@
 
 ###
 
-  <h1 align="center">SOBRE</h1>
+  <h1 align="center">Sobre ⋫</h1>
 
   <p align="center">𖣂Estudante de psicologia<br>𖣂Leitora<br>𖣂Autista/TDAH<br>𖣂Altas Habilidades</p>
   <div align="center">
