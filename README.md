@@ -30,9 +30,9 @@
   
 ###
 
-  <h1>Linguagens de domínio💻</h1>
+  <h1 align="center">Linguagens de domínio💻</h1>
 
-  <div align="center"/>
+  <div align="left"/>
     <img src="borda.gif" />
   </div>
   
