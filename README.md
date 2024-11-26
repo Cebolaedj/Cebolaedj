@@ -36,6 +36,8 @@
 
   <h1 align="center">Linguagens de domínio💻</h1>
 
+  <br><br>
+
   <div align="left"/>
     <img src="borda.gif" />
   </div>
