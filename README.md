@@ -41,7 +41,7 @@
   <div align="left"/>
     <img src="borda.gif" />
   </div>
-  
+  <br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
@@ -58,6 +58,8 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="60" alt="godot logo"  />
 </div>
+
+<br>
 
   <div align="right"/>
     <img src="borda.gif" />
