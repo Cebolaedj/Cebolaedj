@@ -24,7 +24,7 @@
   <h1 align="center">Sobre ⋫</h1>
   <br><br>
 
-  <p align="center">𖣂Estudante de psicologia<br>𖣂Leitora<br>𖣂Autista/TDAH<br>𖣂Altas Habilidades</p>
+  <p align="center">𖣂Estudante de psicologia<br>𖣂Leitora<br>𖣂Autista/TDAH<br>𖣂Altas Habilidades<br>𖣂Tipologista</p>
   <div align="center">
   <img src="xope.gif" height="200" alt="xope"/>
 </div>
